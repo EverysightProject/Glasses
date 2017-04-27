@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CloudTest</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="app_modes">
+        <item>Phone Mode</item>
+        <item>Glass Mode</item>
+    </string-array>
+    <string-array name="turnes">
+        <item>Right</item>
+        <item>Left</item>
+    </string-array>
+</resources>
